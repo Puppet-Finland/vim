@@ -1,0 +1,13 @@
+{
+  "name": "puppetfinland-vim",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Setup vim",
+  "source": "https://github.com/Puppet-Finland/vim.git",
+  "project_page": "https://github.com/Puppet-Finland/vim",
+  "dependencies": [
+    { "name": "rismoney/chocolatey", "version_requirement": ">= 0.4.1" },
+    { "name": "puppetfinland/os", "version_requirement": ">= 0.5.4" },
+  ]
+}
